@@ -1,0 +1,19 @@
+
+#note{
+    margin: 20px auto;
+}
+#note-head{
+    width: 100%;
+    justify-content: space-between;
+    background-color: rgb(133, 133, 211);
+    display: flex;
+}
+#title{
+    width: 80%;
+    height: 30px;
+}
+
+#des{
+    width: 80%;
+    min-height: 400px;
+}

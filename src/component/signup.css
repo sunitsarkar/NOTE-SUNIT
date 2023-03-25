@@ -1,0 +1,30 @@
+#main1{
+    background-color: rgb(185, 76, 76);
+}
+#signup{
+    background-color: aliceblue;
+    margin-left: 20%;
+    margin-right: 20%;
+    min-height: 800px;
+    box-shadow: 10px darkturquoise;
+    box-shadow: inset ;
+}
+.input{
+    margin: 10px 100px;
+    border: none;
+    height: 50px;
+    border-bottom: 1px solid black;
+    width: 80%;
+}
+#terms{
+    margin-left: 170px;
+}
+button{
+    background-color: rgb(185, 76, 76);
+    border-radius: 20px;
+    color: aliceblue;
+    width: 50%;
+    height: 50px;
+    margin-left: 24%;
+    
+}
