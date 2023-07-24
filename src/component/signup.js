@@ -15,7 +15,7 @@ export default function Signup() {
     const url = "https://noteback-mze8.onrender.com"
 
     const signup = async (e) => {
-        if (password == cpassword) {
+        if (password === cpassword) {
             console.log(email, password)
             e.preventDefault()
             try {
